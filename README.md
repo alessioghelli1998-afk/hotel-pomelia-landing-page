@@ -1,10 +1,10 @@
 # 🏨 Front-End Project: Hotel Pomelia Luxury & Sustainability
 
 ## Project Goal
-This project is a single-page website developed to showcase my skills in modern, responsive front-end development, specifically focusing on elegant design and complex layout structuring using HTML and advanced CSS techniques.
+This project is a single-page website developed to showcase my skills in modern, responsive front-end development, specifically focusing on elegant design and complex layout structuring using HTML and CSS techniques.
 
 ## Core Features
-1.  **Advanced Header Layout:** Implemented a three-column header structure (Logo, Centered Nav, CTA) using **Flexbox** and `margin: auto` for precise menu alignment.
+1.  **Header Layout:** Implemented a three-column header structure (Logo, Centered Nav, CTA) using **Flexbox** and `margin: auto` for precise menu alignment.
 2.  **Modular Content Grid:** The "Sustainability" section utilizes **CSS Grid** for an organized and interactive card layout, including intricate hover effects.
 3.  **Semantic & Accessible HTML:** Used proper HTML5 semantic tags, ensuring every content image has a descriptive `alt` attribute for accessibility.
 4.  **Style Management:** Employed **CSS Variables (`:root`)** for efficient theme management and consistency across the site.
